@@ -1,4 +1,4 @@
-# latex-spell-check
+### LaTeX Spell Checker Package
 
 
 Compile the document using LuaLaTeX:
